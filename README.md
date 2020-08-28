@@ -1,4 +1,7 @@
-# Octocat Game
+# GitHubLab Training 
+
+https://lab.github.com/githubtraining/security-strategy-essentials
+
 Test your memory.
 
 All the images from https://octodex.github.com/.
